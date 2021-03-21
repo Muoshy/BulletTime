@@ -1,4 +1,4 @@
-![top](https://raw.githubusercontent.com/Muoshy/BulleTime/main/img/both_front.jpg)
+![top](https://raw.githubusercontent.com/Muoshy/BulletTime/main/img/both_front.jpg)
 
 # BulletTime
 ESP32 based clock using LTP-305 led matrices.
