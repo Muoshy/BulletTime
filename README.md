@@ -36,6 +36,7 @@ Brightness control using button interrupts.
 |--------------------------		|----------	|------								|
 | ESP32-WROOM-32D              	| 1x 		| ESP32     						|
 | CP2102N-A02-GQFN24            | 1x       	| USB-UART     						|
+| HT16K33			| 2x		| LED driver |
 | LDL1117            			| 1x       	| Voltage regulator     			|
 | SP0503BAHTG				   	| 1x       	| ESD-protection     				|
 | LTP-305					   	| 6x       	| 5x7 led matrix     				|
